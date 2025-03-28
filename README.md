@@ -1,8 +1,6 @@
 # NieR: Automata 尼爾：自動人形 繁中日雙語字幕 (僅台詞對白)
 
 ![alt text](https://github.com/Duvet13d/NieR_Automata_Dual_Subtitle/blob/main/Screenshot1.png)
-![alt text](https://github.com/Duvet13d/NieR_Automata_Dual_Subtitle/blob/main/Screenshot2.png)
-![alt text](https://github.com/Duvet13d/NieR_Automata_Dual_Subtitle/blob/main/Screenshot3.png)
 
 中文文本是取自 WLong製作的NS移植版本 基礎版
 而日語則是直接使用原文
